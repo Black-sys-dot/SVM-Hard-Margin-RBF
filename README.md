@@ -6,7 +6,7 @@ Dual Optimization: Solves the SVM dual problem via quadratic programming for exa
 Radial Basis Function (RBF) Kernel: Handles complex, non-linear decision boundaries.
 Efficient Training: Optimized to run on a balanced subset of the MNIST dataset (1000 examples).
 Bias Calculation: Includes bias averaging over support vectors.
-Performance: Achieves strong classification performance, even with hard-margin SVM.
+Performance: Achieves strong classification performance, even with hard-margin SVM.<br>
 📁 Dataset
 The project uses the MNIST dataset for classifying digits 0 and 1. The dataset is already pre-processed and scaled for the SVM training.
 
