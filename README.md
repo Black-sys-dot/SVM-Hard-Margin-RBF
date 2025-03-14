@@ -1,4 +1,4 @@
-SVM with RBF Kernel - Dual Optimization<br>
+🧿SVM with RBF Kernel - Dual Optimization🧿<br><br>
 This project implements a Support Vector Machine (SVM) using the Radial Basis Function (RBF) kernel to classify digits (0 and 1) from the MNIST dataset. The classifier is optimized through solving the dual problem using quadratic programming with cvxopt. It’s an efficient and accurate solution for binary classification, leveraging the RBF kernel for non-linear data separation.
 
 🚀 Features
