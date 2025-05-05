@@ -26,4 +26,4 @@ Test Set: Provided separately for evaluating the model.
 If you're cloning this repository, download the dataset from the MNIST Official Website or from this repository. Place the dataset in the same directory as the code for easy access. 
 
 🫶 License:
-Do whatever you want with this sh*t—just don’t blame me if it blows up your laptop 💻 or PC. And one last thing: if you hate your house, you can just iterate over all examples of the dataset, and your house will burn in flames. So that’s it, bye. Remember, we have only one goal: hole 🫵🫵. 
+Do whatever you want with this sh*t—just don’t blame me if it blows up your laptop 💻 or PC. And one last thing: if you hate your house, you can just iterate over all examples of the dataset, and your house will burn in flames. So that’s it, bye. Remember, we have only one goal: a hole 🫵🫵. 
