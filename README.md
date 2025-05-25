@@ -28,7 +28,7 @@ Test Set: Provided separately for evaluating the model.
 🔌 Dataset Instructions
 If you're cloning this repository, download the dataset from the MNIST Official Website or from this repo (if available).
 Just place it in the same directory as the code for smooth execution.
-
+<br>
 <br>
 🫶 License
 Do whatever you want with this—just don’t blame me if it slows down your computer or makes it sound like a jet engine.
