@@ -3,7 +3,9 @@ SVM with RBF Kernel - Dual Optimization 🧿
 <br>
 😖 Boring Part (Implementation 🥱)
 This project implements a Support Vector Machine (SVM) using the Radial Basis Function (RBF) kernel to classify digits (0 and 1) from the MNIST dataset. The classifier is optimized by solving the dual problem using quadratic programming with cvxopt.
-Oh, you don’t know what the dual optimization problem is? You scikit-learn enthusiast 🤡🤡.
+<br>
+<br>
+(●'◡'●)  Quick update: So when was making this I doesn't know about vectorization(vectorizational implementation) , so that's why you will see too many loops here with numbers in output(iteration step) , cause i was not using gpu nor vectorization so the loop is too slow that i have to print epoch and now i am so bored and forget too many things that i have to burn my brain with SVM torture , so i am leaving this as it is.
 
 <br>
 🚀 Features
@@ -31,10 +33,5 @@ Test Set: Provided separately for evaluating the model.
 If you're cloning this repository, download the dataset from the MNIST Official Website or from this repo (if available).
 Just place it in the same directory as the code for smooth execution.
 <br>
-<br>
-🫶 License
-<br>
-Do whatever you want with this—just don’t blame me if it slows down your computer or makes it sound like a jet engine.
-And one last thing: if you're feeling adventurous, try iterating over the entire dataset without optimization—might not burn your house down, but it’ll sure heat things up 🔥.
 
 That’s it. Have fun. Bye 👋
